@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "62b766460bcb236a",
+    "type": "split",
+    "children": [
+      {
+        "id": "f8e49c782e36f9a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f20ee631b71ddaf4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "202509161312 - Hub as a broadcast device.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "202509161312 - Hub as a broadcast device"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "556c051eb20795e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "653037ecb37f7d58",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8919b560c195ccf7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "02525b157fa3a095",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9528fc2568e718e5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a408c11230e79a5e",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9821965c94b0ea4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a7d9174d0eb5962",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "202509161300 - Switch as layer 2 forwarding device.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 202509161300 - Switch as layer 2 forwarding device"
+            }
+          },
+          {
+            "id": "d60e4d356d0d638e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "202509161300 - Switch as layer 2 forwarding device.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 202509161300 - Switch as layer 2 forwarding device"
+            }
+          },
+          {
+            "id": "6cfa7b816114a55e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3e874a8f341d3058",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "202509161300 - Switch as layer 2 forwarding device.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 202509161300 - Switch as layer 2 forwarding device"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "f20ee631b71ddaf4",
+  "lastOpenFiles": [
+    "202509161300 - Switch as layer 2 forwarding device.md",
+    "202509161312 - Hub as a broadcast device.md",
+    "Templates/Untitled.md",
+    "Switch.md",
+    "Templates"
+  ]
+}
