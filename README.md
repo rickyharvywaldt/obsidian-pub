@@ -1,1 +1,1 @@
-# obsidian-pub
+My public notes.
